@@ -10,3 +10,7 @@ SQLAlchemy==1.4.29
 Werkzeug==2.0.2
 PyJWT==2.8.0
 zhipuai==2.1.4.20230731
+mypy-extensions==0.4.3
+mysql-connector-python==9.0.0
+SQLAlchemy==2.0.38
+PyMySQL==1.1.1
